@@ -1,4 +1,4 @@
-labels: [Lists]
+labels: [Packages]
 body:
 - type: dropdown
   attributes:
